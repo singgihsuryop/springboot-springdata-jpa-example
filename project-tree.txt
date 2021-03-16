@@ -1,0 +1,24 @@
+├── pom.xml
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   ├── META-INF
+│   │   │   │   └── persistence.xml
+│   │   │   └── com
+│   │   │       └── singgihsuryop
+│   │   │           └── springboot
+│   │   │               └── springdata
+│   │   │                   └── jpa
+│   │   │                       ├── Application.java
+│   │   │                       ├── PersonEntity.java
+│   │   │                       └── PersonJpaRepository.java
+│   │   └── resources
+│   │       └── application.properties
+│   └── test
+│       └── java
+│           └── com
+│               └── singgihsuryop
+│                   └── springboot
+│                       └── springdata
+│                           └── jpa
+│                               └── ApplicationTests.java
